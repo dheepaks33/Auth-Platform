@@ -1,0 +1,9 @@
+# Exclude files and directories
+*.md
+*.log
+*.git
+__pycache__
+*.pyc
+
+# Ensure requirements.txt is not excluded
+!requirements.txt
